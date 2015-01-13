@@ -3,4 +3,6 @@ Function for woocommerce to set the payment gateway based on the billing address
 So a service like paddle.com which handles VAT can be used for EU countries and a cheaper 
 gateway can be used everywhere else.
 
-No guarantee and check that this method is legal in your country
+Plae this in your theme's functions.php file.
+
+No guarantee and check that this method is legal in your country.
